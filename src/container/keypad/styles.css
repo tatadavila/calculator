@@ -8,7 +8,6 @@
         'one two three addition'
         'zero zero dot equal';
     gap: 5px;
-    grid-auto-columns: min-content;
     padding: 5px;
     width: 100%;
 }

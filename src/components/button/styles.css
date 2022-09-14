@@ -3,9 +3,10 @@ button {
     border: none;
     border-radius: 50px;
     flex: 1;
-    height: 1.3rem;
+    font-size: 2rem;
+    height: 75px;
     justify-content: center;
-    margin: 1px 0px;
+    margin: 3px;
 }
 
 .item10 {

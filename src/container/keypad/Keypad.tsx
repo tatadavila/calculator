@@ -1,4 +1,4 @@
-// @components
+    // @components
 import { Button } from '~/components'
 
 // @styles

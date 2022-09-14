@@ -1,9 +1,12 @@
 #root {
+    display: flex;
+    justify-content: center;
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
+    width: 35%;
 }
 
 .App {
-    width: fit-content;
+    width: 100%;
 }
