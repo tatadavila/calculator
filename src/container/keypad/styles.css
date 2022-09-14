@@ -1,0 +1,14 @@
+.keypad__container {
+    background-color: #000;
+    display: grid;
+    grid-template-areas:
+        'AC sign percentage division'
+        'seven eight nine multiply'
+        'four five six substraction'
+        'one two three addition'
+        'zero zero dot equal';
+    gap: 5px;
+    grid-auto-columns: min-content;
+    padding: 5px;
+    width: 100%;
+}

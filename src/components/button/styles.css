@@ -1,0 +1,90 @@
+button {
+    align-items: center;
+    border: none;
+    border-radius: 50px;
+    flex: 1;
+    height: 1.3rem;
+    justify-content: center;
+    margin: 1px 0px;
+}
+
+.item10 {
+    grid-area: AC;
+}
+.item11 {
+    grid-area: sign;
+}
+.item12 {
+    grid-area: percentage;
+}
+.item13 {
+    grid-area: division;
+}
+.item14 {
+    grid-area: addition;
+}
+.item15 {
+    grid-area: substraction;
+}
+.item16 {
+    grid-area: multiply;
+}
+.item17 {
+    grid-area: equal;
+}
+.item18 {
+    grid-area: dot;
+}
+.item19 {
+    grid-area: zero;
+}
+.item1 {
+    grid-area: one;
+}
+.item2 {
+    grid-area: two;
+}
+.item3 {
+    grid-area: three;
+}
+.item4 {
+    grid-area: four;
+}
+.item5 {
+    grid-area: five;
+}
+.item6 {
+    grid-area: six;
+}
+.item7 {
+    grid-area: seven;
+}
+.item8 {
+    grid-area: eight;
+}
+.item9 {
+    grid-area: nine;
+}
+
+.darkGray {
+    background-color: #333333;
+}
+
+.darkGray:hover {
+    background-color: #737b80;
+}
+
+.gray {
+    background-color: #a5a5a5;
+}
+.gray:hover {
+    background-color: #f2f2f2;
+}
+
+.yellow {
+    background-color: #ff9f06;
+}
+
+.yellow:hover {
+    background-color: #ffbd52;
+}
