@@ -1,7 +1,6 @@
 # CALCULATOR
 
-- **template of:** vite + react
-- **tailwindcss:** v3.x
+- **Technolodies:** vite + react + Typescript
 
 ## Started
 ```bash
