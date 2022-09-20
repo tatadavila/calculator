@@ -1,6 +1,6 @@
 # CALCULATOR
 
-- **Technolodies:** vite + react + Typescript
+- **Technologies:** vite + react + Typescript
 
 ## Started
 ```bash
